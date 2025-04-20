@@ -17,8 +17,8 @@
 ---
 
 ```
-◾ Start : https://MyeongHyeonYoo.github.io
-◾ Behind : https://MyeongHyeonYoo.github.io/Steam_Games
+◾ Start : https://dohyeonyu.github.io/
+◾ Behind : https://dohyeonyu.github.io/Steam_Games
 ```
 ---
 ###### 이 포트폴리오는 상업적 목적이 아닌 개인 연습용 및 공부용으로 제작한 사이트입니다.
